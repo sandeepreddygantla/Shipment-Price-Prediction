@@ -1,0 +1,1427 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "shipment.logger",
+        "description": "shipment.logger",
+        "isExtraImport": true,
+        "detail": "shipment.logger",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "shippingException",
+        "importPath": "shipment.exception",
+        "description": "shipment.exception",
+        "isExtraImport": true,
+        "detail": "shipment.exception",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBOperation",
+        "importPath": "shipment.configuration.mongo_operations",
+        "description": "shipment.configuration.mongo_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.mongo_operations",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBOperation",
+        "importPath": "shipment.configuration.mongo_operations",
+        "description": "shipment.configuration.mongo_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.mongo_operations",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifacts",
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "isExtraImport": true,
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_SIZE",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_CONFIG_FILE",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "DB_URL",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "APP_HOST",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "APP_PORT",
+        "importPath": "shipment.constant",
+        "description": "shipment.constant",
+        "isExtraImport": true,
+        "detail": "shipment.constant",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryEncoder",
+        "importPath": "category_encoders.binary",
+        "description": "category_encoders.binary",
+        "isExtraImport": true,
+        "detail": "category_encoders.binary",
+        "documentation": {}
+    },
+    {
+        "label": "ColumnTransformer",
+        "importPath": "sklearn.compose",
+        "description": "sklearn.compose",
+        "isExtraImport": true,
+        "detail": "sklearn.compose",
+        "documentation": {}
+    },
+    {
+        "label": "OneHotEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "loads",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "evidently.model_profile",
+        "description": "evidently.model_profile",
+        "isExtraImport": true,
+        "detail": "evidently.model_profile",
+        "documentation": {}
+    },
+    {
+        "label": "DataDriftProfileSection",
+        "importPath": "evidently.model_profile.sections",
+        "description": "evidently.model_profile.sections",
+        "isExtraImport": true,
+        "detail": "evidently.model_profile.sections",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "S3Operation",
+        "importPath": "shipment.configuration.s3_operations",
+        "description": "shipment.configuration.s3_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.s3_operations",
+        "documentation": {}
+    },
+    {
+        "label": "S3Operation",
+        "importPath": "shipment.configuration.s3_operations",
+        "description": "shipment.configuration.s3_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.s3_operations",
+        "documentation": {}
+    },
+    {
+        "label": "S3Operation",
+        "importPath": "shipment.configuration.s3_operations",
+        "description": "shipment.configuration.s3_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.s3_operations",
+        "documentation": {}
+    },
+    {
+        "label": "S3Operation",
+        "importPath": "shipment.configuration.s3_operations",
+        "description": "shipment.configuration.s3_operations",
+        "isExtraImport": true,
+        "detail": "shipment.configuration.s3_operations",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "pymongo.database",
+        "description": "pymongo.database",
+        "isExtraImport": true,
+        "detail": "pymongo.database",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "ClientError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "mypy_boto3_s3.service_resource",
+        "description": "mypy_boto3_s3.service_resource",
+        "isExtraImport": true,
+        "detail": "mypy_boto3_s3.service_resource",
+        "documentation": {}
+    },
+    {
+        "label": "from_root",
+        "importPath": "from_root",
+        "description": "from_root",
+        "isExtraImport": true,
+        "detail": "from_root",
+        "documentation": {}
+    },
+    {
+        "label": "MainUtils",
+        "importPath": "shipment.utils.main_utils",
+        "description": "shipment.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "shipment.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "MainUtils",
+        "importPath": "shipment.utils.main_utils",
+        "description": "shipment.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "shipment.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "importPath": "shipment.components.data_ingestion",
+        "description": "shipment.components.data_ingestion",
+        "isExtraImport": true,
+        "detail": "shipment.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidation",
+        "importPath": "shipment.components.data_validation",
+        "description": "shipment.components.data_validation",
+        "isExtraImport": true,
+        "detail": "shipment.components.data_validation",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformation",
+        "importPath": "shipment.components.data_transformation",
+        "description": "shipment.components.data_transformation",
+        "isExtraImport": true,
+        "detail": "shipment.components.data_transformation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "importPath": "shipment.components.model_trainer",
+        "description": "shipment.components.model_trainer",
+        "isExtraImport": true,
+        "detail": "shipment.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluation",
+        "importPath": "shipment.components.model_evaluation",
+        "description": "shipment.components.model_evaluation",
+        "isExtraImport": true,
+        "detail": "shipment.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusher",
+        "importPath": "shipment.components.model_pusher",
+        "description": "shipment.components.model_pusher",
+        "isExtraImport": true,
+        "detail": "shipment.components.model_pusher",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "dill",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dill",
+        "description": "dill",
+        "detail": "dill",
+        "documentation": {}
+    },
+    {
+        "label": "xgboost",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "safe_dump",
+        "importPath": "yaml",
+        "description": "yaml",
+        "isExtraImport": true,
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "all_estimators",
+        "importPath": "sklearn.utils",
+        "description": "sklearn.utils",
+        "isExtraImport": true,
+        "detail": "sklearn.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "isExtraImport": true,
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "CostPredictor",
+        "importPath": "shipment.components.model_predictor",
+        "description": "shipment.components.model_predictor",
+        "isExtraImport": true,
+        "detail": "shipment.components.model_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "shippingData",
+        "importPath": "shipment.components.model_predictor",
+        "description": "shipment.components.model_predictor",
+        "isExtraImport": true,
+        "detail": "shipment.components.model_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "TrainPipeline",
+        "importPath": "shipment.pipeline.training_pipeline",
+        "description": "shipment.pipeline.training_pipeline",
+        "isExtraImport": true,
+        "detail": "shipment.pipeline.training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "kind": 6,
+        "importPath": "shipment.components.data_ingestion",
+        "description": "shipment.components.data_ingestion",
+        "peekOfCode": "class DataIngestion:\n    def __init__(\n        self, data_ingestion_config: DataIngestionConfig, mongo_op: MongoDBOperation\n    ):\n        self.data_ingestion_config = data_ingestion_config\n        self.mongo_op = mongo_op\n    # This method will fetch data from mongoDB\n    def get_data_from_mongodb(self) -> DataFrame:\n        \"\"\"\n        Method Name :   get_data_from_mongodb",
+        "detail": "shipment.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformation",
+        "kind": 6,
+        "importPath": "shipment.components.data_transformation",
+        "description": "shipment.components.data_transformation",
+        "peekOfCode": "class DataTransformation:\n    def __init__(\n        self,\n        data_ingestion_artifacts: DataIngestionArtifacts,\n        data_transformation_config: DataTransformationConfig,\n    ):\n        self.data_ingestion_artifacts = data_ingestion_artifacts\n        self.data_transformation_config = data_transformation_config\n        # Reading train.csv and test.csv from data ingestion artifacts\n        self.train_set = pd.read_csv(self.data_ingestion_artifacts.train_data_file_path)",
+        "detail": "shipment.components.data_transformation",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidation",
+        "kind": 6,
+        "importPath": "shipment.components.data_validation",
+        "description": "shipment.components.data_validation",
+        "peekOfCode": "class DataValidation:\n    def __init__(\n        self,\n        data_ingestion_artifacts: DataIngestionArtifacts,\n        data_validation_config: DataValidationConfig,\n    ):\n        self.data_ingestion_atifacts = data_ingestion_artifacts\n        self.data_validation_config = data_validation_config\n    # This method is used to validate schema columns\n    def validate_schema_columns(self, df: DataFrame) -> bool:",
+        "detail": "shipment.components.data_validation",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateModelResponse",
+        "kind": 6,
+        "importPath": "shipment.components.model_evaluation",
+        "description": "shipment.components.model_evaluation",
+        "peekOfCode": "class EvaluateModelResponse:\n    trained_model_r2_score: float\n    s3_model_r2_score: float\n    is_model_accepted: bool\n    difference: float\nclass ModelEvaluation:\n    def __init__(\n        self,\n        model_trainer_artifact: ModelTrainerArtifacts,\n        model_evaluation_config: ModelEvaluationConfig,",
+        "detail": "shipment.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluation",
+        "kind": 6,
+        "importPath": "shipment.components.model_evaluation",
+        "description": "shipment.components.model_evaluation",
+        "peekOfCode": "class ModelEvaluation:\n    def __init__(\n        self,\n        model_trainer_artifact: ModelTrainerArtifacts,\n        model_evaluation_config: ModelEvaluationConfig,\n        data_ingestion_artifact: DataIngestionArtifacts,\n    ):\n        self.model_trainer_artifact = model_trainer_artifact\n        self.model_evaluation_config = model_evaluation_config\n        self.data_ingestion_artifact = data_ingestion_artifact",
+        "detail": "shipment.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "shippingData",
+        "kind": 6,
+        "importPath": "shipment.components.model_predictor",
+        "description": "shipment.components.model_predictor",
+        "peekOfCode": "class shippingData:\n    def __init__(\n        self,\n        artist,\n        height,\n        width,\n        weight,\n        material,\n        priceOfSculpture,\n        baseShippingPrice,",
+        "detail": "shipment.components.model_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "CostPredictor",
+        "kind": 6,
+        "importPath": "shipment.components.model_predictor",
+        "description": "shipment.components.model_predictor",
+        "peekOfCode": "class CostPredictor:\n    def __init__(self):\n        self.s3 = S3Operation()\n        self.bucket_name = BUCKET_NAME\n    def predict(self, X) -> float:\n        \"\"\"\n        Method Name :   predict\n        Description :   This method predicts the data. \n        Output      :   Predictions \n        \"\"\"",
+        "detail": "shipment.components.model_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusher",
+        "kind": 6,
+        "importPath": "shipment.components.model_pusher",
+        "description": "shipment.components.model_pusher",
+        "peekOfCode": "class ModelPusher:\n    def __init__(\n        self,\n        model_pusher_config: ModelPusherConfig,\n        model_trainer_artifacts: ModelTrainerArtifacts,\n        data_transformation_artifacts: DataTransformationArtifacts,\n        s3: S3Operation,\n    ):\n        self.model_pusher_config = model_pusher_config\n        self.model_trainer_artifacts = model_trainer_artifacts",
+        "detail": "shipment.components.model_pusher",
+        "documentation": {}
+    },
+    {
+        "label": "CostModel",
+        "kind": 6,
+        "importPath": "shipment.components.model_trainer",
+        "description": "shipment.components.model_trainer",
+        "peekOfCode": "class CostModel:\n    def __init__(self, preprocessing_object: object, trained_model_object: object):\n        self.preprocessing_object = preprocessing_object\n        self.trained_model_object = trained_model_object\n    def predict(self, X) -> float:\n        \"\"\"\n        Method Name :   predict\n        Description :   This method predicts the data. \n        Output      :   Predictions \n        \"\"\"",
+        "detail": "shipment.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "kind": 6,
+        "importPath": "shipment.components.model_trainer",
+        "description": "shipment.components.model_trainer",
+        "peekOfCode": "class ModelTrainer:\n    def __init__(\n        self,\n        data_transformation_artifact: DataTransformationArtifacts,\n        model_trainer_config: ModelTrainerConfig,\n    ):\n        self.data_transformation_artifact = data_transformation_artifact\n        self.model_trainer_config = model_trainer_config\n    # This method is used to get the trained models\n    def get_trained_models(",
+        "detail": "shipment.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBOperation",
+        "kind": 6,
+        "importPath": "shipment.configuration.mongo_operations",
+        "description": "shipment.configuration.mongo_operations",
+        "peekOfCode": "class MongoDBOperation:\n    def __init__(self):\n        self.DB_URL = DB_URL\n        self.client = MongoClient(self.DB_URL)\n    def get_database(self, db_name) -> Database:\n        \"\"\"\n        Method Name :   get_database\n        Description :   This method gets database from MongoDB from the db_name\n        Output      :   A database is created in MongoDB with name as db_name\n        \"\"\"",
+        "detail": "shipment.configuration.mongo_operations",
+        "documentation": {}
+    },
+    {
+        "label": "S3Operation",
+        "kind": 6,
+        "importPath": "shipment.configuration.s3_operations",
+        "description": "shipment.configuration.s3_operations",
+        "peekOfCode": "class S3Operation:\n    def __init__(self):\n        self.s3_client = boto3.client(\"s3\")\n        self.s3_resource = boto3.resource(\"s3\")\n    @staticmethod\n    def read_object(\n        object_name: str, decode: bool = True, make_readable: bool = False\n    ) -> Union[StringIO, str]:\n        \"\"\"\n        Method Name :   read_object",
+        "detail": "shipment.configuration.s3_operations",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifacts",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class DataIngestionArtifacts:\n    train_data_file_path: str\n    test_data_file_path: str\n@dataclass\nclass DataValidationArtifacts:\n    data_drift_file_path: str\n    validation_status: bool\n# Data Transformation Artifacts\n@dataclass\nclass DataTransformationArtifacts:",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifacts",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class DataValidationArtifacts:\n    data_drift_file_path: str\n    validation_status: bool\n# Data Transformation Artifacts\n@dataclass\nclass DataTransformationArtifacts:\n    transformed_object_file_path: str\n    transformed_train_file_path: str\n    transformed_test_file_path: str\n@dataclass",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifacts",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class DataTransformationArtifacts:\n    transformed_object_file_path: str\n    transformed_train_file_path: str\n    transformed_test_file_path: str\n@dataclass\nclass ModelTrainerArtifacts:\n    trained_model_file_path: str\n# Model Evaluation Artifacts\n@dataclass\nclass ModelEvaluationArtifact:",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifacts",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class ModelTrainerArtifacts:\n    trained_model_file_path: str\n# Model Evaluation Artifacts\n@dataclass\nclass ModelEvaluationArtifact:\n    is_model_accepted: bool\n    trained_model_path: str\n    changed_accuracy: float\n# Model Pusher Artifacts\n@dataclass",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class ModelEvaluationArtifact:\n    is_model_accepted: bool\n    trained_model_path: str\n    changed_accuracy: float\n# Model Pusher Artifacts\n@dataclass\nclass ModelPusherArtifacts:\n    bucket_name: str\n    s3_model_path: str",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifacts",
+        "kind": 6,
+        "importPath": "shipment.entity.artifacts_entity",
+        "description": "shipment.entity.artifacts_entity",
+        "peekOfCode": "class ModelPusherArtifacts:\n    bucket_name: str\n    s3_model_path: str",
+        "detail": "shipment.entity.artifacts_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class DataIngestionConfig:\n    def __init__(self):\n        self.UTILS = MainUtils()\n        self.SCHEMA_CONFIG = self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)\n        self.DB_NAME = DB_NAME\n        self.COLLECTION_NAME = COLLECTION_NAME\n        self.DROP_COLS = list(self.SCHEMA_CONFIG[\"drop_columns\"])\n        self.DATA_INGESTION_ARTIFCATS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_INGESTION_ARTIFACTS_DIR\n        )",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class DataValidationConfig:\n    def __init__(self):\n        self.UTILS = MainUtils()\n        self.SCHEMA_CONFIG = self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)\n        self.DATA_INGESTION_ARTIFCATS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_INGESTION_ARTIFACTS_DIR\n        )\n        self.DATA_VALIDATION_ARTIFACTS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_VALIDATION_ARTIFACT_DIR\n        )",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class DataTransformationConfig:\n    def __init__(self):\n        self.UTILS = MainUtils()\n        self.SCHEMA_CONFIG = self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)\n        self.DATA_INGESTION_ARTIFCATS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_INGESTION_ARTIFACTS_DIR\n        )\n        self.DATA_TRANSFORMATION_ARTIFACTS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_TRANSFORMATION_ARTIFCATS_DIR\n        )",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class ModelTrainerConfig:\n    def __init__(self):\n        self.UTILS = MainUtils()\n        self.DATA_TRANSFORMATION_ARTIFACTS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, DATA_TRANSFORMATION_ARTIFCATS_DIR\n        )\n        self.MODEL_TRAINER_ARTIFACTS_DIR: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, MODEL_TRAINER_ARTIFACTS_DIR\n        )\n        self.PREPROCESSOR_OBJECT_FILE_PATH: str = os.path.join(",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class ModelEvaluationConfig:\n    def __init__(self):\n        self.S3_OPERATIONS = S3Operation()\n        self.UTILS = MainUtils()\n        self.BUCKET_NAME: str = BUCKET_NAME\n        self.BEST_MODEL_PATH: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, MODEL_TRAINER_ARTIFACTS_DIR, MODEL_FILE_NAME\n        )\n# Model Pusher Configurations\n@dataclass",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "kind": 6,
+        "importPath": "shipment.entity.config_entity",
+        "description": "shipment.entity.config_entity",
+        "peekOfCode": "class ModelPusherConfig:\n    def __init__(self):\n        self.BEST_MODEL_PATH: str = os.path.join(\n            from_root(), ARTIFACTS_DIR, MODEL_TRAINER_ARTIFACTS_DIR, MODEL_FILE_NAME\n        )\n        self.BUCKET_NAME: str = BUCKET_NAME\n        self.S3_MODEL_KEY_PATH: str = os.path.join(S3_MODEL_NAME)",
+        "detail": "shipment.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TrainPipeline",
+        "kind": 6,
+        "importPath": "shipment.pipeline.training_pipeline",
+        "description": "shipment.pipeline.training_pipeline",
+        "peekOfCode": "class TrainPipeline:\n    def __init__(self):\n        self.data_ingestion_config = DataIngestionConfig()\n        self.data_validation_config = DataValidationConfig()\n        self.data_transformation_config = DataTransformationConfig()\n        self.model_trainer_config = ModelTrainerConfig()\n        self.model_evaluation_config = ModelEvaluationConfig()\n        self.model_pusher_config = ModelPusherConfig()\n        self.s3_operations = S3Operation()\n        self.mongo_op = MongoDBOperation()",
+        "detail": "shipment.pipeline.training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "MainUtils",
+        "kind": 6,
+        "importPath": "shipment.utils.main_utils",
+        "description": "shipment.utils.main_utils",
+        "peekOfCode": "class MainUtils:\n    def read_yaml_file(self, filename: str) -> dict:\n        logging.info(\"Entered the read_yaml_file method of MainUtils class\")\n        try:\n            with open(filename, \"rb\") as yaml_file:\n                return yaml.safe_load(yaml_file)\n        except Exception as e:\n            raise shippingException(e, sys) from e\n    def write_json_to_yaml_file(self, json_file: dict, yaml_file_path: str) -> yaml:\n        logging.info(\"Entered the write_json_to_yaml_file method of MainUtils class\")",
+        "detail": "shipment.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DataForm",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class DataForm:\n    def __init__(self, request: Request):\n        self.request: Request = request\n        self.artist: Optional[str] = None\n        self.height: Optional[str] = None\n        self.width: Optional[str] = None\n        self.weight: Optional[str] = None\n        self.material: Optional[str] = None\n        self.priceOfSculpture: Optional[str] = None\n        self.baseShippingPrice: Optional[str] = None",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI()\napp.mount(\"/static\", StaticFiles(directory=\"static\"), name=\"static\")\ntemplates = Jinja2Templates(directory=\"templates\")\norigins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "templates = Jinja2Templates(directory=\"templates\")\norigins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass DataForm:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "origins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass DataForm:\n    def __init__(self, request: Request):",
+        "detail": "app",
+        "documentation": {}
+    }
+]
